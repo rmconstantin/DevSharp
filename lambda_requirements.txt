@@ -1,0 +1,3 @@
+# Runtime dependencies verified by the local packaging build. Python 3.12, x86_64.
+boto3==1.43.108
+psycopg[binary]==3.3.6
